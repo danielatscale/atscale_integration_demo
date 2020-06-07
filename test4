@@ -1,1 +1,39 @@
-Testing
+{
+  "id": "4ff36d13-2bde-401a-5099-5a24133848e9",
+  "name": "Sales Insights",
+  "version": 75,
+  "annotations": {
+    "annotation": [
+      {
+        "name": "complete-fix",
+        "value": "true"
+      },
+      {
+        "name": "migrationVersion",
+        "value": "2020.2.1.1602"
+      },
+      {
+        "name": "version",
+        "value": "6"
+      },
+      {
+        "name": "engineId",
+        "value": "53d49296-e7d1-4a35-5f49-5621175219d9"
+      },
+      {
+        "name": "versionTag"
+      },
+      {
+        "name": "publishDate",
+        "value": "Published on Jun 2, 2020 at 7:58am (PDT)"
+      }
+    ]
+  },
+  "properties": {
+    "caption": "Sales Insights",
+    "visible": true,
+    "aggregate-prediction": {
+      "speculative-aggregates": false
+    }
+  }
+} 
